@@ -7,4 +7,4 @@ how-many-fingers-user.html is the reverse of how-many-fingers-computer.html. Her
 
 reaction-tester.html tests and trains a user's reflexes. A random shape in a random color and size will appear in any part of the window every 2 seconds. The user is expected to click on the shape to make it disappear as quickly as possible. The time it took the user to click on each shape every time is displayed on the screen.
 
-All formatting and styling is done using HTML and CSS
+All formatting and styling is done using HTML5 and CSS3
